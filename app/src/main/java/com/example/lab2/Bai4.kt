@@ -1,5 +1,7 @@
 package com.example.lab2
 
+import QuanLySinhVien
+
 fun main() {
     val quanLy = QuanLySinhVien()
 
